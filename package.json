@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-restapi",
+  "version": "1.0.0",
+  "description": "RESTful API med NodeJS & MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Webudvikler-TechCollege/NODEJS-RESTAPI.git"
+  },
+  "author": "Heinz K @ TechCollege",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Webudvikler-TechCollege/NODEJS-RESTAPI/issues"
+  },
+  "homepage": "https://github.com/Webudvikler-TechCollege/NODEJS-RESTAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
